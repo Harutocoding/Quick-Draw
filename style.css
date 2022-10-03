@@ -1,0 +1,21 @@
+body
+{
+    background-color: azure;
+}
+
+#Score{
+    font-size: 20px;
+    margin-left: 35px;
+}
+
+#Timer
+{
+    font-size: 20px;
+    float:right;
+    margin-right: 35px;
+}
+
+#Sketch
+{
+    color: rosybrown;
+}
